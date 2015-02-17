@@ -1,0 +1,731 @@
+/* MadCap Table Style: */
+
+/*<meta Version="9" />*/
+
+mcTableStyle
+{
+	name: Custom;
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-left-width: 1px;
+	border-left-color: #000000;
+	border-right-style: solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-top-style: solid;
+	border-top-width: 1px;
+	border-top-color: #000000;
+	border-bottom-style: solid;
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	max-id: 3;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	background-color: #d3d3d3;
+	name: Column1;
+	id: 0;
+}
+
+mcTableColumnStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Column2;
+	id: 1;
+}
+
+mcTableHeadStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 2px;
+	name: Header1;
+	id: 3;
+}
+
+mcTableBodyStyle
+{
+	span: 1;
+	separator-style: solid;
+	separator-width: 1px;
+	separator-color: #000000;
+	name: Body1;
+	id: 2;
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+
+/* Cell Styles: */
+ 
+.TableStyle-Custom
+{
+	border-collapse: collapse;
+	border-left-style: solid;
+	border-left-color: #000000;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-right-color: #000000;
+	border-right-width: 1px;
+	border-top-style: solid;
+	border-top-color: #000000;
+	border-top-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+	border-bottom-width: 1px;
+	border-spacing: 0px 0px;
+}
+
+.TableStyle-Custom-Column-Column1
+{
+	
+}
+
+.TableStyle-Custom-Column-Column2
+{
+	
+}
+
+.TableStyle-Custom-Head-Header1
+{
+	
+}
+
+.TableStyle-Custom-HeadI-Column1-Header1
+{
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-HeadI-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadE-Column1-Header1
+{
+	background-color: #d3d3d3;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Custom-HeadE-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadF-Column1-Header1
+{
+	background-color: #d3d3d3;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Custom-HeadF-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadH-Column1-Header1
+{
+	background-color: #d3d3d3;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-HeadH-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadD-Column1-Header1
+{
+	background-color: #d3d3d3;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Custom-HeadD-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadC-Column1-Header1
+{
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-HeadC-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadB-Column1-Header1
+{
+	background-color: #d3d3d3;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-HeadB-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadA-Column1-Header1
+{
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-HeadA-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadG-Column1-Header1
+{
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-HeadG-Column1-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadI-Column2-Header1
+{
+	
+}
+
+.TableStyle-Custom-HeadI-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadE-Column2-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Custom-HeadE-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadF-Column2-Header1
+{
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Custom-HeadF-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadH-Column2-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-HeadH-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadD-Column2-Header1
+{
+	border-bottom-width: 2px;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Custom-HeadD-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadC-Column2-Header1
+{
+	
+}
+
+.TableStyle-Custom-HeadC-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadB-Column2-Header1
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-HeadB-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadA-Column2-Header1
+{
+	
+}
+
+.TableStyle-Custom-HeadA-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-HeadG-Column2-Header1
+{
+	
+}
+
+.TableStyle-Custom-HeadG-Column2-Header1 p
+{
+	
+}
+
+.TableStyle-Custom-FootI-Column1-
+{
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-FootI-Column1- p
+{
+	
+}
+
+.TableStyle-Custom-FootE-Column1-
+{
+	background-color: #d3d3d3;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-FootE-Column1- p
+{
+	
+}
+
+.TableStyle-Custom-FootF-Column1-
+{
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-FootF-Column1- p
+{
+	
+}
+
+.TableStyle-Custom-FootH-Column1-
+{
+	background-color: #d3d3d3;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-FootH-Column1- p
+{
+	
+}
+
+.TableStyle-Custom-FootD-Column1-
+{
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-FootD-Column1- p
+{
+	
+}
+
+.TableStyle-Custom-FootC-Column1-
+{
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-FootC-Column1- p
+{
+	
+}
+
+.TableStyle-Custom-FootB-Column1-
+{
+	background-color: #d3d3d3;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-FootB-Column1- p
+{
+	
+}
+
+.TableStyle-Custom-FootA-Column1-
+{
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-FootA-Column1- p
+{
+	
+}
+
+.TableStyle-Custom-FootG-Column1-
+{
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-FootG-Column1- p
+{
+	
+}
+
+.TableStyle-Custom-FootI-Column2-
+{
+	
+}
+
+.TableStyle-Custom-FootI-Column2- p
+{
+	
+}
+
+.TableStyle-Custom-FootE-Column2-
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-FootE-Column2- p
+{
+	
+}
+
+.TableStyle-Custom-FootF-Column2-
+{
+	
+}
+
+.TableStyle-Custom-FootF-Column2- p
+{
+	
+}
+
+.TableStyle-Custom-FootH-Column2-
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-FootH-Column2- p
+{
+	
+}
+
+.TableStyle-Custom-FootD-Column2-
+{
+	
+}
+
+.TableStyle-Custom-FootD-Column2- p
+{
+	
+}
+
+.TableStyle-Custom-FootC-Column2-
+{
+	
+}
+
+.TableStyle-Custom-FootC-Column2- p
+{
+	
+}
+
+.TableStyle-Custom-FootB-Column2-
+{
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-FootB-Column2- p
+{
+	
+}
+
+.TableStyle-Custom-FootA-Column2-
+{
+	
+}
+
+.TableStyle-Custom-FootA-Column2- p
+{
+	
+}
+
+.TableStyle-Custom-FootG-Column2-
+{
+	
+}
+
+.TableStyle-Custom-FootG-Column2- p
+{
+	
+}
+
+.TableStyle-Custom-Body-Body1
+{
+	
+}
+
+.TableStyle-Custom-BodyI-Column1-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-BodyI-Column1-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyE-Column1-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	background-color: #d3d3d3;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-BodyE-Column1-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyF-Column1-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-BodyF-Column1-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyH-Column1-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+	background-color: #d3d3d3;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-BodyH-Column1-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyD-Column1-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-BodyD-Column1-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyC-Column1-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-BodyC-Column1-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyB-Column1-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+	background-color: #d3d3d3;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-BodyB-Column1-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyA-Column1-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-BodyA-Column1-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyG-Column1-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+	background-color: #d3d3d3;
+}
+
+.TableStyle-Custom-BodyG-Column1-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyI-Column2-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyI-Column2-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyE-Column2-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-BodyE-Column2-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyF-Column2-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Custom-BodyF-Column2-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyH-Column2-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-BodyH-Column2-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyD-Column2-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+	border-bottom-width: 1px;
+	border-bottom-color: #000000;
+	border-bottom-style: solid;
+}
+
+.TableStyle-Custom-BodyD-Column2-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyC-Column2-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyC-Column2-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyB-Column2-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+	border-right-width: 1px;
+	border-right-color: #000000;
+	border-right-style: solid;
+}
+
+.TableStyle-Custom-BodyB-Column2-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyA-Column2-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyA-Column2-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyG-Column2-Body1
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+.TableStyle-Custom-BodyG-Column2-Body1 p
+{
+	font-family: fantasy, Algerian, 'Bookman Old Style';
+}
+
+
